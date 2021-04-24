@@ -36,7 +36,7 @@ The main idea of this system is to save the efforts and time of human beings as 
 
 ### 1) Open New Form
 <p align="center">
-  <img src="https://github.com/patelharshsupport/GIF-for-readme/blob/main/GIF%20for%20readme/New%20Form/Open%20New%20Form.gif?raw=true">
+  <img src="https://github.com/patelharshsupport/GIF-for-readme/blob/main/Open%20New%20Form%20ver1.gif?raw=true">
 </p>
 
 Select **New Form** from the menu bar and browse the image of the template you want to scan.
@@ -44,14 +44,14 @@ Please try to use **digital copy** of the template so that scanned paper forms c
 <br></br>
 ### 2) Naming and Creating ROI
 <p align="center">
-  <img src="https://github.com/patelharshsupport/GIF-for-readme/blob/main/GIF%20for%20readme/New%20Form/Naming%20and%20Creating%20ROI.gif?raw=true">
+  <img src="https://github.com/patelharshsupport/GIF-for-readme/blob/main/Naming%20and%20Creating%20ROI%20ver1.gif?raw=true">
 </p>
 
 Firstly, Enter the name of the form and start selecting the region of interest (ROI) where you want to detect the text. Then, Enter the name of the attribute in the pop-up and press **OK**. After selecting all the attributes, press **Save** button to save the form details. (Now, you can move to old form window.)
 <br></br>
 ### 3) ROI Mistake
 <p align="center">
-  <img src="https://github.com/patelharshsupport/GIF-for-readme/blob/main/GIF%20for%20readme/New%20Form/ROI%20Mistake.gif?raw=true">
+  <img src="https://github.com/patelharshsupport/GIF-for-readme/blob/main/ROI%20Mistake%20ver1.gif?raw=true">
 </p>
 
 When you make a mistake while drawing Region of Interest (ROI). You can use **Cancel** button to undo your action.
@@ -62,7 +62,7 @@ When you make a mistake while drawing Region of Interest (ROI). You can use **Ca
 ### 1) Open and Browse Old Form
 
 <p align="center">
-  <img src="https://github.com/patelharshsupport/GIF-for-readme/blob/main/GIF%20for%20readme/Old%20Form/Open%20and%20Browse%20Old%20Form.gif?raw=true">
+  <img src="https://github.com/patelharshsupport/GIF-for-readme/blob/main/Open%20and%20Browse%20Old%20Form%20ver1.gif?raw=true">
 </p>
 
 Select **Old Form** from the menu bar. Select the form you want to work on from the dropdown list and browse the filled-form image.
@@ -70,7 +70,7 @@ Select **Old Form** from the menu bar. Select the form you want to work on from 
 ### 2) Scan, Edit and Save
 
 <p align="center">
-  <img src="https://github.com/patelharshsupport/GIF-for-readme/blob/main/GIF%20for%20readme/Old%20Form/Scan,%20Edit%20and%20Save.gif?raw=true">
+  <img src="https://github.com/patelharshsupport/GIF-for-readme/blob/main/Scan,%20Edit%20and%20Save%20ver1.gif?raw=true">
 </p>
 
 Press **Scan** button to scan the contents of the selected image. Check the results and **correct** if detected wrong. (As machines make mistakes too. They don't have mind but you have one :rofl:). Finally, press the **Save** button to save the result to .csv file.
